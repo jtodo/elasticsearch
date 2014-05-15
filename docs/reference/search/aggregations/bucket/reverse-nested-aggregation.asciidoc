@@ -106,9 +106,9 @@ Possible response snippet:
                                     ...
                                 ]
                             }
-                        },
-                        ...
-                    }
+                        }
+                    },
+                    ...
                 ]
             }
         }
